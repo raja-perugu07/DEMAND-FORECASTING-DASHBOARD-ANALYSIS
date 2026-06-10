@@ -3,6 +3,7 @@
 ## Overview
 
 This project presents an interactive Power BI dashboard developed to analyze retail demand patterns across stores, products, regions, and time periods. The dashboard enables business stakeholders to monitor demand performance, identify high-performing products and stores, and support inventory planning through data-driven insights.
+<img width="1155" height="666" alt="Screenshot 2026-06-10 151310" src="https://github.com/user-attachments/assets/78e8e73e-d610-4816-afb0-6087a5ae3bea" />
 
 ## Business Problem
 
